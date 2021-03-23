@@ -1,4 +1,4 @@
-#Assignment 2: Digital Signature Using RSA
+# Assignment 2: Digital Signature Using RSA
 The aim of this assignment is to implement a digital signature using RSA. Before the digital signature can be implemented, you will need to set up an appropriate public/private RSA key pair. This should be done as follows:
 
 Generate two distinct 512-bit probable primes p and q
